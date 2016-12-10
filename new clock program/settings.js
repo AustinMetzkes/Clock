@@ -1,12 +1,5 @@
 var main = function() {
 
-    
-
-    window.alert("hello, it works!");
-
-    console.log("test message");
-
-    
 
     // when button is clicked...
 
