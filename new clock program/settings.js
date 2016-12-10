@@ -39,7 +39,7 @@ var main = function() {
 
         // get new comment text from input box
 
-        var commentText = $("#newCommentBox").val();
+        var commentText = $("#sizing-addon1").vasizing-addon1l();
 
     
 

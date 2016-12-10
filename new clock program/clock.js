@@ -61,7 +61,7 @@ var main = function () {
         
         var year = currentDateTime.getFullYear();
 
-        var daysofweek = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday"];
+        var daysofweek = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday"];
 
         var today = daysofweek[day];
 
@@ -143,7 +143,7 @@ var main = function () {
 
                     // show the alert 
 
-                //    $("#lionAlert").slideDown(10);
+                    $("#lionAlert").fadeIn(1000);
 
 
 

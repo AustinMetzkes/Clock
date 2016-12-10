@@ -1,0 +1,62 @@
+
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/*********************************************/
+
+body {
+    background-color: floralwhite;
+    font: #003300;
+    font-family: lucida console;
+}
+div .jumbotron{
+    background-color: floralwhite;
+    padding-left: 30%;
+    margin-bottom: 0px;
+    font-size: 100px;
+}
+
+.jumbotron {
+    background: #111;
+    color: black;
+}
+
+.jumbotron h1 {
+    font-size: 100px;
+}
+
+div .alert {
+    font-size: 1000px;
+    margin-top: 30%;
+}
+.weather {
+    padding-left: 20%;
+}
+
